@@ -4,7 +4,7 @@
 
 on peux allez jusuq'a 6
 
-- premeir element
+- premier element
 - deuxieme
 
 1. liste numéroté
